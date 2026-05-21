@@ -7,3 +7,4 @@ Estudiantes:
 6- Facundo Rodriguez
 7- Marina Albornoz
 8- Gianella Del Santo
+9- Giovanna Di virgilio
