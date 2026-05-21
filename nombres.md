@@ -6,3 +6,4 @@ Estudiantes:
 5- Octavio Bambini
 6- Facundo Rodriguez
 7- Marina Albornoz
+8- Gianella Del Santo
