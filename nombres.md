@@ -4,3 +4,4 @@ Estudiantes:
 3- Joaquín Trejo
 4- Ciro Cafaratti
 5- Octavio Bambini
+6- Facundo Rodriguez
